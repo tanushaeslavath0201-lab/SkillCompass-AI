@@ -1,0 +1,16 @@
+career,skill,required_level,weight
+Data Analyst,Python,65,2
+Data Analyst,SQL,80,3
+Data Analyst,Excel,80,3
+Data Analyst,Statistics,65,2
+Data Analyst,Power BI,75,3
+Data Scientist,Python,85,3
+Data Scientist,SQL,65,2
+Data Scientist,Statistics,85,3
+Data Scientist,Machine Learning,80,3
+Data Scientist,Mathematics,75,2
+Business Analyst,Excel,80,3
+Business Analyst,SQL,60,2
+Business Analyst,Communication,85,3
+Business Analyst,Problem Solving,80,3
+Business Analyst,Power BI,65,2
